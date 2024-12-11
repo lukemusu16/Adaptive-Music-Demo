@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c57d80c6-634e-4347-9fbf-3b26b2e5bebd}">
+		<property name="assetPath">
+			<value>zapsplat_sound_design_cinematic_hit_dark_eerie_tense_ghostly_trailer_80197.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>11.616</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{80537f1a-2d29-413e-9abd-3a38b8be7b8b}</destination>
+		</relationship>
+	</object>
+</objects>
